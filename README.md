@@ -2,8 +2,6 @@
 
 **NX Activity Log** is a homebrew application for the Nintendo Switch which displays more precise information about your play activity.
 
-[Download](https://github.com/tallbl0nde/NX-Activity-Log/releases)
-
 Curious about what's next? See my to-do list on [Trello](https://trello.com/b/HaJ1THGq/nx-activity-log)
 
 ## Contents
