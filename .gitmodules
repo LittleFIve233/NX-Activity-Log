@@ -9,4 +9,4 @@
 	url = https://github.com/tallbl0nde/Aether
 [submodule "Application/romfs/lang"]
 	path = Application/romfs/lang
-	url = https://github.com/zdm65477730/NX-Activity-Log-Translations.git
+	url = https://github.com/LittleFIve233/NX-Activity-Log-Translations.git
