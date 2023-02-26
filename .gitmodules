@@ -3,7 +3,7 @@
 	url = https://github.com/nlohmann/json.git
 [submodule "Application/libs/SimpleIniParser"]
 	path = Application/libs/SimpleIniParser
-	url = https://github.com/Team-Neptune/SimpleIniParser.git
+	url = https://github.com/Team-Neptune/SimpleIniParser
 [submodule "Application/libs/Aether"]
 	path = Application/libs/Aether
 	url = https://github.com/tallbl0nde/Aether
