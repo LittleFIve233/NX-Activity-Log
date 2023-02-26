@@ -83,16 +83,13 @@ _Note: If the data shown under All Activity is incorrect there is nothing I can 
 
 If you'd like to translate the app or fix an issue with a translation, please make a pull request to [this repo](https://github.com/tallbl0nde/NX-Activity-Log-Translations)! I'll add all the relevant code here (if need be) once I see the request :)
 
-## Credits
+## Build
 
-I'd like to thank:
+1.complete [require libs](https://github.com/LittleFIve233/NX-Activity-Log/tree/master/Application/libs)
 
-* AtlasNX for [SimpleIniParser](https://github.com/AtlasNX/SimpleIniParser)
-  * Used to read/write the config file
-* nlohmann for his [JSON library](https://github.com/nlohmann/json)
-* Switchbrew for [nx-hbloader](https://github.com/switchbrew/nx-hbloader)
-  * Adapted to override User Page with this app
-* Anyone else involved with the development of homebrew tools and reverse engineering of the Switch!
+2.installed DevkitPro, libnx and switch-tools(switch-curl is important)
+
+3.then open Msys2 or Shell, run make
 
 ## Support <3
 
